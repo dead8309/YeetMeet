@@ -1,6 +1,6 @@
 import os
 class Config(object):
-	BOT_TOKEN = os.environ.get('BOT_TOKEN', '1397014596:AAEZiosy5JvyBxT')
+	BOT_TOKEN = os.environ.get('BOT_TOKEN', '1476773425:AAH3XVG13N7P2v__IKmo8JrJbfcNIGef20Q)
 	GUSERNAME = os.environ.get('GUSER_NAME', 'deadyt8309@gmail.com')
 	GPASSWORD = os.environ.get('GPASSWORD', '+919835495101')
 
