@@ -1,8 +1,8 @@
 import os
 class Config(object):
-	BOT_TOKEN = os.environ.get('BOT_TOKEN', '1476773425:AAH3XVG13N7P2v__IKmo8JrJbfcNIGef20Q')
-	GUSERNAME = os.environ.get('GUSER_NAME', 'deadyt8309@gmail.com')
-	GPASSWORD = os.environ.get('GPASSWORD', '+919835495101')
+	BOT_TOKEN = os.environ.get('BOT_TOKEN')
+	GUSERNAME = os.environ.get('GUSER_NAME')
+	GPASSWORD = os.environ.get('GPASSWORD')
 
 # If you're not familiar with how to set Environment Variables you can do like this instead
 # of  setting Environment Variables
