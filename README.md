@@ -64,7 +64,7 @@ See [How to edit config.py](https://github.com/1337w0rm/YeetMeet/issues/3#issuec
 
 
 1. Download and Install Google Chrome and Chromedriver.
- 2. `git clone https://github.com/1337w0rm/YeetMeet`
+ 2. `git clone https://github.com/dead8309/YeetMeet`
  3. `cd YeetMeet`
  4. `pip install -r requirements.txt`
  5. `python chromium.py`
